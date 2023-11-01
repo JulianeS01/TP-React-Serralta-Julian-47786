@@ -16,7 +16,7 @@ const AboutUs = () => {
           <Card className="card" style={{ width: "18rem" }}>
             <Card.Img
               variant="top"
-              src="https://dogtime.com/wp-content/uploads/sites/12/2018/11/GettyImages-1448525820.jpg"
+              src="https://images7.memedroid.com/images/UPLOADED322/634084e6e7085.jpeg"
               alt="boyero"
             />
             <Card.Body>
@@ -31,7 +31,7 @@ const AboutUs = () => {
           <Card className="card" style={{ width: "18rem" }}>
             <Card.Img
               variant="top"
-              src="https://www.rover.com/blog/wp-content/uploads/2019/07/cockerspaniel1.jpg"
+              src="https://www.elsoldetijuana.com.mx/incoming/7h4hk6-kesikesiperrito.jpg/ALTERNATES/LANDSCAPE_768/Kesikesiperrito.jpg"
               alt="cocker"
             />
             <Card.Body>
@@ -46,7 +46,7 @@ const AboutUs = () => {
           <Card className="card" style={{ width: "18rem" }}>
             <Card.Img
               variant="top"
-              src="https://harness-toku.jp/wp-content/uploads/2019/03/image001-1024x683.jpg"
+              src="https://www.petlife.mx/u/fotografias/m/2023/4/12/f768x1-1046_1173_5050.jpg"
               alt="golden"
             />
             <Card.Body>
