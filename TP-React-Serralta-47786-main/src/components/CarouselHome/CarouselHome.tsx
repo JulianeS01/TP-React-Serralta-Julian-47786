@@ -7,7 +7,7 @@ const CarouselHome = () => {
         <img
           className="d-block w-100"
           style={{ maxHeight: "500px", objectFit: "cover" }}
-          src="https://th.bing.com/th/id/R.9243f086683e23007b5cf9e37c7dcd6f?rik=dY1FNXi%2fFcSjRw&riu=http%3a%2f%2fwww.pixolo.it%2fwp-content%2fuploads%2f2012%2f12%2fanimals_dogs_puppies_canine_1920x1080_wallpaper_Wallpaper_2560x1600_www.wall321.com_-627x391.jpg&ehk=kHE5artRivcHA6iet%2bhXaginXbWe6jHDDAQHOfsOoKU%3d&risl=&pid=ImgRaw&r=0"
+          src="https://ep01.epimg.net/verne/imagenes/2020/05/29/articulo/1590766528_962500_1590770757_noticia_normal.jpg"
           alt="perritos1"
         />
         <Carousel.Caption>
@@ -20,7 +20,7 @@ const CarouselHome = () => {
         <img
           className="d-block w-100"
           style={{ maxHeight: "500px", objectFit: "cover" }}
-          src="https://data.1freewallpapers.com/detail/a-bunch-of-labrador-puppies.jpg"
+          src="https://www.diaridetarragona.com/binrepository/900x896/0c195/900d506/none/15017645/YYAY/meme_crop1584356858942_DT202003160025_MG249282811.jpg"
           alt="perritos2"
         />
         <Carousel.Caption>
@@ -33,7 +33,7 @@ const CarouselHome = () => {
         <img
           className="d-block w-100"
           style={{ maxHeight: "500px", objectFit: "cover" }}
-          src="https://www.wallpaperflare.com/static/674/395/760/husky-puppy-cute-animals-4k-wallpaper-preview.jpg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCv3ycp4AqAuTPzAAHIP--Q-JhC9Gy1a2xoQ&usqp=CAU"
           alt="perritos3"
         />
         <Carousel.Caption>
